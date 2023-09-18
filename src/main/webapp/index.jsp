@@ -9,5 +9,7 @@
 </h1>
 <br/>
 <a href="hello-servlet">Check updates</a>
+<br/>
+<a href="test-servlet">New Test</a>
 </body>
 </html>
