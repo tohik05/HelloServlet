@@ -12,7 +12,7 @@ public class HelloServlet extends HttpServlet {
     private String message;
 
     public void init() {
-        message = "My fourth commit, Hello Java!";
+        message = "My fifth commit, Hello Java!";
     }
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
